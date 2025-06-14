@@ -4,6 +4,9 @@ Advanced penetration testing tool for discovering API endpoints through intellig
 
 ## 🚀 Features
 
+- **Works with javascript based sites**: Handles dynamic content and single-page applications. (e.g., React, Angular, Vue etc.)
+- **Domain Scanning**: Scans a specified domain for API endpoints
+- **Intelligent Crawling**: Automatically discovers and follows links on web pages
 - **Advanced Form Detection**: Automatic form discovery and filling with test data
 - **JavaScript Interaction**: Automatic clicking on buttons and clickable elements
 - **Smart Request Capture**: Monitoring XHR, Fetch and all HTTP requests
